@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pt
+*.ckpt
+.env
+results/*.csv
+results/*.json
